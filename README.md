@@ -520,6 +520,7 @@ A curated collection of the best **free** motion graphics resources — fonts, e
 
 - [60fps.design](https://60fps.design/) — UI and UX animation inspiration from best-in-class apps.
 - [Behance — Motion Graphics](https://www.behance.net/galleries/motion/motion-graphics) — Adobe's platform showcasing top motion graphics projects.
+- [Dot ripple](https://reels.1human.tech/post/ef5b73d3-87fa-4726-9026-e5c7c567cea5) — CC0 motion study of expanding dot ripples, with public video preview and creator credit.
 - [Dribbble — Motion Design](https://dribbble.com/search/motion) — Shot-based design community with motion design work.
 - [Kisto](https://kisto.app/) — Motion design and animation inspiration gallery.
 - [Made with Jitter](https://madewithjitter.com/) — Curated animations made with Jitter.
