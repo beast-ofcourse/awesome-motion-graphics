@@ -381,6 +381,7 @@ A curated collection of the best **free** motion graphics resources — fonts, e
 - [Pixabay Sound Effects](https://pixabay.com/sound-effects/) — 120,000+ CC0 sound effects, no login required.
 - [QuickSounds](https://quicksounds.com/) — Free SFX library with no login required.
 - [SFXLibrary](https://www.sfxlibrary.com/) — Free SFX in MP3, WAV, and OGG formats.
+- [SFXMint](https://sfxmint.com/) — CC0 AI-generated or synthesized sound effects in WAV/MP3; individual previews and downloads need no account.
 - [Sonniss GDC Audio Bundle](https://sonniss.com/gameaudiogdc) — Annual free professional SFX bundle from GDC.
 - [SoundBible](https://soundbible.com/) — Thousands of free sound effects, MP3 and WAV formats.
 - [SoundDino](https://sounddino.com/en/effects/effects) — Royalty-free SFX including whooshes and foley.
