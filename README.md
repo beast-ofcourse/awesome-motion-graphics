@@ -72,6 +72,7 @@ A curated collection of the best **free** motion graphics resources — fonts, e
 - [Mixkit Kinetic Templates](https://mixkit.co/free-after-effects-templates/kinetic/) — Free After Effects kinetic typography templates, no signup.
 - [Motion Array Kinetic Typography](https://motionarray.com/after-effects-templates/free) — Free After Effects kinetic typography and title templates.
 - [Renderforest Animated Text Generator](https://www.renderforest.com/animated-text-generator) — Free online animated text generator with 600+ kinetic typography scenes.
+- [Text Match Cut](https://textmatchcut.net/) — Free online text match cut video maker.
 - [Uppbeat Kinetic Typography](https://uppbeat.io/motion-graphics/category/after-effects/kinetic-typography-text) — Free kinetic typography templates for After Effects.
 
 ### Lower Thirds
