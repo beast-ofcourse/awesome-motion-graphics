@@ -472,6 +472,7 @@ A curated collection of the best **free** motion graphics resources — fonts, e
 
 - [CapCut](https://www.capcut.com/) — Free online video editor with motion graphics features.
 - [FlashFX](https://flashfx.app/) — Free online video effect generator.
+- [imgmov Last Frame Extractor](https://imgmov.com/extract-last-frame-from-video) — Free browser tool to inspect a local video’s ending and export a selected frame as PNG, with no signup.
 - [Jitter](https://jitter.video/) — Free online motion graphics tool with no download required.
 - [Motionity](https://motionity.app/) — Free open-source After Effects alternative in the browser.
 - [Pikimov](https://pikimov.com/) — Free online motion design tool, no signup needed.
