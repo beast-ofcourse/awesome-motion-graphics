@@ -220,6 +220,7 @@ A curated collection of the best **free** motion graphics resources — fonts, e
 - [Serverless Tools Glitch Art Generator](https://serverlesstools.com/tools/glitch-art-generator) — 10 effects, 6 presets, fully client-side.
 - [Snaproid Glitch Effects](https://snaproid.com/effects/glitch) — Free glitch effect presets for photos and videos.
 - [Supermosh](https://supermosh.github.io/) — Datamosh videos directly in the browser.
+- [VHS Filter](https://vhsfilter.com/) — Adds retro tape effects to photos and short videos with adjustable browser-based controls and presets.
 - [Videvo Glitch Overlays](https://www.videvo.net/stock-video-footage/glitch/) — Free glitch overlay stock videos.
 - [Veed.io Glitch Video Effect](https://www.veed.io/tools/glitch-video) — Free online glitch video editor.
 
